@@ -1,0 +1,66 @@
+        body {
+            background: rgb(124, 213, 219);
+            font-family: fantasy;
+            color: rgb(0, 0, 0)
+        }
+
+        figure {
+            float: right;
+            margin-left: 10px;
+            border: 1px solid #000000;
+        }
+
+        figcaption {
+            background: rgb(124, 213, 219);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 11px;
+            padding: 2px;
+        }
+
+        .t1 {
+            float: none;
+            margin-left: 10px;
+            border: 1px solid #000000;
+        }
+
+        .t2 {
+            float: none;
+            margin-left: 10px;
+            border: 1px solid #000000;
+        }
+
+        .t3 {
+            float: none;
+            margin-left: 10px;
+            border: 1px solid #000000;
+        }
+
+        .t4 {
+            float: none;
+            margin-left: 10px;
+            border: 1px solid #000000;
+        }
+
+        li {
+            display: inline-block;
+        }
+
+        li a {
+            list-style: none;
+            background-color: springgreen;
+            margin-bottom: 10px;
+            padding: 5px 5px;
+            color: darkblue;
+            text-decoration: honeydew;
+            margin-left: 10px;
+        }
+
+        ul {
+            padding: 0px;
+            padding: 0px;
+            display: block;
+        }
+
+        li a:hover {
+            background-color: olivedrab;
+        }
